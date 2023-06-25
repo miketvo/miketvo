@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miketvo
-- 👀 I’m interested in music, arts, sciences and other stuffs... also fueled by cat cuddle
+- 👀 I’m interested in music, arts, sciences and other stuffs... also fueled by cat cuddles
 - 🌱 I’m currently learning at RMIT Vietnam
 - 👔 I'm doing freelance web development
 - 🤝 I’m looking to collaborate on game development
