@@ -16,8 +16,6 @@ align="center" >
     </a>
 </div>
 
----
-
 <div align="center">
 <picture>
   <source
@@ -29,20 +27,6 @@ align="center" >
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=miketvo&show_icons=true" />
-</picture>
-</div>
-
-<div align="center">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miketvo&layout=pie&hide=jupyter%20notebook&langs_count=16&size_weight=0.2&count_weight=1&theme=github_dark_dimmed"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=miketvo&layout=pie&hide=jupyter%20notebook&langs_count=16&size_weight=0.2&count_weight=1"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miketvo&layout=pie&hide=jupyter%20notebook&langs_count=16&size_weight=0.2&count_weight=1" />
 </picture>
 </div>
 
