@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="assets/mike.png" width="256px" height="256px" />
+</div>
+
 <div 
 class="sketchfab-embed-wrapper" 
 align="center" >
