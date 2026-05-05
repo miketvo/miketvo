@@ -34,9 +34,6 @@ align="center" >
 
 - 👋 Hi, I’m [@miketvo](https://github.com/miketvo)
 - 👀 I’m interested in music, arts, sciences and other stuffs... also fueled by cat cuddles and [@yoantran](https://github.com/yoantran)
-- 🌱 I’m currently learning at RMIT Vietnam
-- 👔 I'm doing freelance web development
-- 🤝 I’m looking to collaborate on game development
 - 📫 How to reach me: miketvo@outlook.com
 
 <!---
