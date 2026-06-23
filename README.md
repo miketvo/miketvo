@@ -33,7 +33,7 @@ align="center" >
 ---
 
 - 👋 Hi, I’m [@miketvo](https://github.com/miketvo)
-- 👀 I’m interested in music, arts, sciences and other stuffs... also fueled by cat cuddles and [@yoantran](https://github.com/yoantran)
+- 👀 I’m interested in music, art, science and other stuffs... also fueled by cat cuddles and [@yoantran](https://github.com/yoantran)
 - 📫 How to reach me: miketvo@outlook.com
 
 <!---
